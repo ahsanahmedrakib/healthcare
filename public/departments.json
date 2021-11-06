@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0, "name": "Neurology", "description": "Neurology is a branch of medicine dealing with disorders of the nervous system. Neurology deals with the diagnosis and treatment of all.", "image": "https://i.ibb.co/RccPNJD/dept-1.jpg"
+    },
+    {
+        "id": 1, "name": "Opthalmology", "description": "Ophthalmology is the study of medical conditions relating to the eye. Ophthalmologists are doctors who specialize in the medical and surgical treatment of this organ.", "image": "https://i.ibb.co/T0F18c6/dept-9.jpg"
+    },
+    {
+        "id": 2, "name": "Neuclear Magnetic", "description": "Nuclear magnetic resonance (NMR) is a physical phenomenon in which nuclei in a strong constant magnetic field are perturbed by a weak oscillating magnetic field (in the near field).", "image": "https://i.ibb.co/qxBXBsG/dept-8.jpg"
+    },
+    {
+        "id": 3, "name": "Surgical", "description": "Surgery is a medical or dental specialty that uses operative manual and instrumental techniques on a person to investigate or treat a pathological condition such as a disease or injury.", "image": "https://i.ibb.co/Ldzmh72/dept-7.jpg"
+    },
+    {
+        "id": 4, "name": "Cardiology", "description": "Cardiology is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. ", "image": "https://i.ibb.co/9T5kLq7/dept-6.jpg"
+    },
+    {
+        "id": 5, "name": "X-ray", "description": "An X-ray, or, much less commonly, X-radiation, is a penetrating form of high-energy electromagnetic radiation.", "image": "https://i.ibb.co/KmBSgYW/dept-5.jpg"
+    },
+    {
+        "id": 6, "name": "Dental", "description": "Dentistry, also known as dental medicine and oral medicine, is a branch of medicine that consists of the study, diagnosis, prevention, and treatment of diseases, disorders, and conditions of the oral.", "image": "https://i.ibb.co/j5MTBGC/dept-4.jpg"
+    },
+    {
+        "id": 7, "name": "Traumatology", "description": "In medicine, traumatology is the study of wounds and injuries caused by accidents or violence to a person, and the surgical therapy and repair of the damage. Traumatology is a branch of medicine.", "image": "https://i.ibb.co/CVXDsKT/dept-3.jpg"
+    },
+    {
+        "id": 8, "name": "ECG", "description": "Electrocardiography is the process of producing an electrocardiogram. It is a graph of voltage versus time of the electrical activity of the heart using electrodes placed on the skin", "image": "https://i.ibb.co/k5Fn7c7/dept-2.jpg"
+    }
+]

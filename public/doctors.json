@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1", "name": "Dr. Alex Furgosen", "position": "PRESIDENT", "image": "https://i.ibb.co/MGsMzKL/1.jpg", "study": "MBBS(BSMMU), FCPS", "phone": "+522 234 56789"
+    },
+    {
+        "id": "2", "name": "Dr. Helen James", "position": "MEDICAL DIRECTOR", "image": "https://i.ibb.co/4FT6qLJ/2.jpg", "study": "MBBS(DMC), FCPS", "phone": "+522 234 56789"
+    },
+    {
+        "id": "3", "name": "Dr. Robert", "position": "NEUROLOGIST", "image": "https://i.ibb.co/jTGktJg/3.jpg"
+    },
+    {
+        "id": "4", "name": "Dr. Robert Smith", "position": "DENTIST", "image": "https://i.ibb.co/HpYX0PV/4.jpg"
+    },
+    {
+        "id": "5", "name": "Dr. Sharon Laura", "position": "OPHTHALMOLOGISTS", "image": "https://i.ibb.co/TwmLH9Y/5.jpg"
+    },
+    {
+        "id": "6", "name": "Dr. Andrea Jean", "position": "SURGEON", "image": "https://i.ibb.co/pKdBTjt/6.jpg"
+    }
+]

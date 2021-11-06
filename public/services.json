@@ -1,0 +1,20 @@
+[
+    {
+        "id": "0", "name": "Emergency Services", "description": "An emergency department, also known as an accident & emergency department, emergency room, emergency ward or casualty department, is a medical treatment facility specializing in emergency medicine, the acute care of patients who present without prior appointment; either by their own means or by that of an ambulance.", "image": "https://media.istockphoto.com/photos/healthcare-workers-with-male-coronavirus-patient-picture-id1254958377?b=1&k=20&m=1254958377&s=170667a&w=0&h=uOGHyjJkxKa0H7Hv5r2T3202o9BGaIlHVWktjjreRfM="
+    },
+    {
+        "id": "1", "name": "Qualified Doctors", "description": "We have qualified doctors of various department. They always try their best to give best service to the patinet. ", "image": "https://media.istockphoto.com/photos/skilled-and-qualified-surgeons-picture-id475828530?b=1&k=20&m=475828530&s=170667a&w=0&h=b6CGFnuqNH5c05W33BgzcsmZM2b7go7VeS41XC7NMws="
+    },
+    {
+        "id": "2", "name": "Outdoor Checkups", "description": "In our Hospital all departments and their Consultants  provide Outdoor Patients checkups, tests and treatments from 8 AM to 2 PM. Our Hospital facilitate more than fifteen hundred patients of outdoor daily. Our Consultant are more professional and highly experienced.", "image": "https://media.istockphoto.com/photos/diver-through-covid19-testing-picture-id1262271720?b=1&k=20&m=1262271720&s=170667a&w=0&h=kz-kJEG7BOb19UYRl8kRUq-zKAhTWrmHDF0FzTE-E_E="
+    },
+    {
+        "id": "3", "name": "24 Hour Service", "description": "The hospital provides round-the-clock emergency services, with a facility that is fully equipped and managed by a dedicated team of qualified emergency care professionals. A well-defined emergency management system has been developed to increase efficiency of rescue efforts. ", "image": "https://media.istockphoto.com/photos/hours-seven-wooden-blocks-with-24-hours-text-of-concept-and-a-clock-picture-id1313920412?b=1&k=20&m=1313920412&s=170667a&w=0&h=Y7KYBF4T4Mt2SlrSC584rd9V1fv9LMC6VYd9x7IIds8="
+    },
+    {
+        "id": "4", "name": "Ambulance Service", "description": "Emergency medical services, also known as ambulance services or paramedic services, are emergency services that provide urgent pre-hospital treatment and stabilisation for serious illness and injuries and transport to definitive care. And our hospital provide 24 hour ambulance service.", "image": "https://media.istockphoto.com/photos/paramedics-taking-patient-on-stretcher-from-ambulance-to-hospital-picture-id526239055?b=1&k=20&m=526239055&s=170667a&w=0&h=vDXhgw_kczflfUjGBIWPedXERlMdKSEwlobyC0wRDjY="
+    },
+    {
+        "id": "5", "name": "Pharmacy", "description": "Our hospital provided a model pharmacy of our own. Any patient or outdoor people can buy thier pharmacy product and other grocery product from here.", "image": "https://media.istockphoto.com/photos/masked-pharmacist-picture-id1280979682?b=1&k=20&m=1280979682&s=170667a&w=0&h=ayNjc_3bl5FKPObgs7Kj7vtLHUI02ShVqwFtYgEo3ck="
+    }
+]
